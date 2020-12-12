@@ -7,7 +7,7 @@ This example program export spreadsheet by Golang.
 0. Set AWS profile.
 
     ```bash
-    # AWS profile(初回のみ)
+    # AWS profile
     aws configure set aws_access_key_id dummy     --profile local
     aws configure set aws_secret_access_key dummy --profile local
     aws configure set region ap-northeast-1       --profile local
